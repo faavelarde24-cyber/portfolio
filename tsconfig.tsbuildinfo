@@ -1,1 +1,0 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/components/frame.tsx","./src/components/herokeypad.tsx","./src/components/reveal.tsx","./src/content/contact.ts","./src/content/practice.ts","./src/content/profile.ts","./src/content/projects.ts","./src/content/tools.ts","./src/hooks/usereducedmotion.ts","./src/hooks/usetheme.ts","./vite.config.ts"],"errors":true,"version":"5.9.3"}
